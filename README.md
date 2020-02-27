@@ -12,7 +12,7 @@ GoPhishReport is a penetration testing and red teaming tool that creates custom 
 
 Clone the GitHub repository
 ```
-git clone https://github.com/jamesm0rr1s/GoPhish-Phishing-Campaign-Reporting /opt/jamesm0rr1s/GoPhish-Phishing-Campaign-Reporting
+git clone https://github.com/centralinfosec/GoPhish-Phishing-Campaign-Reporting /opt/Central-InfoSec/GoPhish-Phishing-Campaign-Reporting
 ```
 
 ## Usage
